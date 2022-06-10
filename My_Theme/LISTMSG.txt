@@ -1,0 +1,8 @@
+<b>Collection name: My_Theme</b>	
+Saved: пет, 10 јун 12:28:40 CEST 2022
+
+Wallpaper saved by Nitrogen:\n/home/exw/Downloads/2P5ypaWKlN.png;\n
+Openbox theme:  Dracula\n
+GTK theme:  Dracula\n
+Runninig Conky:\t\n\t/home/exw/.config/conky/sysinfo_dracula.conkyrc;\n\t/home/exw/.config/conky/shortcuts_dracula.conkyrc;\n
+Running Tint2s:\t\n\t/home/exw/.config/tint2/mabox2001neon.tint2rc\n\t/home/exw/.config/tint2/dracula_launcher.tint2rc\n

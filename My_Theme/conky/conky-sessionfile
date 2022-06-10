@@ -1,0 +1,2 @@
+conky -c '/home/exw/.config/conky/shortcuts_dracula.conkyrc' & sleep 1s
+conky -c '/home/exw/.config/conky/sysinfo_dracula.conkyrc' & sleep 1s
